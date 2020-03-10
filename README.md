@@ -1,4 +1,4 @@
-# lwc-aead-rtl
+# Lightweight Cryptography ASIC Benchmarking
 
 This page/repository is created in order to collect and benchmark ASIC implementations of lightweight cryptographic schemes. Our initial focus on on Autheticated Encryption with Associated Data (AEAD), especially, but not limited to, the second round candidates to the NIST Lightweight Cryptography Standardization Process. In the future, we may extend our analysis to other primitives, as well.
 
