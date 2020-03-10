@@ -19,6 +19,11 @@ Please include in the zip file:
 2) a text file with the designer(s) name(s), the scheme and variant title, whether the implementation is targetted towards energy, throughput, area, of side-channel, the formula to calculate throughput from the clock frequency and (if available) expected area in gate equivalents. The design can have multiple goals concurrently. Please also indicate whether you would like the code to be publicly available on the repository or not.
 
 Moderator:
+
 Mustafa Khairallah
+
 School of Physical and Mathematical Sciences
+
 NTU, Singapore
+
+In collaboration with Thomas Peyrin (NTU, Singapore) and Anupam Chattopadhyay (SCSE, NTU)
