@@ -1,6 +1,6 @@
 # Lightweight Cryptography ASIC Benchmarking
 
-This page/repository is created in order to collect and benchmark ASIC implementations of lightweight cryptographic schemes. Our initial focus on on Autheticated Encryption with Associated Data (AEAD), especially, but not limited to, the second round candidates to the NIST Lightweight Cryptography Standardization Process. In the future, we may extend our analysis to other primitives, as well. The results will be published on this webpage and will be updated with new implementations as we receive them.
+This page/repository is created in order to collect and benchmark ASIC implementations of lightweight cryptographic schemes. Our initial focus on on Autheticated Encryption with Associated Data (AEAD), especially, but not limited to, the second round candidates to the NIST Lightweight Cryptography Standardization Process. In the future, we may extend our analysis to other primitives, as well. The results will be published on this webpage: https://github.com/mustafam001/lwc-aead-rtl/wiki/Results and will be updated with new implementations as we receive them.
 
 Our goal is to have a fair and comprehensive study of different cost/performance trade-offs offered by different schemes, so we appreciate contribution in terms of RTL code of different schemes or collaboration on benchmarking on different ASIC technologies. The benchmarking will be done on the Synopsys tool flow using TSMC 65nm technlogy.
 
